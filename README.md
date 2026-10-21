@@ -23,11 +23,11 @@
 5. **Топ-10 регионов России по туристсокому потоку** - горизонтальная столбчатая диаграмма.
 
 ### Графики
-![](plots/all_flow)
-![](plots/all_flow_bars)
-![](plots/top_10_inbound_2025)
-![](plots/top_10_outbound_2025)
-![](plots/top_10_regions_2025)
+![](plots/all_flow.png)
+![](plots/all_flow_bars.png)
+![](plots/top_10_inbound_2025.png)
+![](plots/top_10_outbound_2025.png)
+![](plots/top_10_regions_2025.png)
 
 ## Выводы
 - Выезд россиян стабильно превышает въезд; после ковида выезд восстановился быстрее.
